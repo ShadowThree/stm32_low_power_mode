@@ -1,0 +1,5 @@
+JLinkLog.txt
+*.uvoptx
+*.uvguix.*
+MDK-ARM/stm32_low_power_mode/
+
